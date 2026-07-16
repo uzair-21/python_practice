@@ -1,4 +1,4 @@
-# #accept an integer an print hello world n times
+# accept an integer an print hello world n times
 # n=int(input("please enter your number"))
 # for i in range(n):
 #      print("hello world")
